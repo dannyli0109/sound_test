@@ -61,5 +61,14 @@
         "joy": 25,
         "sorrow": 24,
         "energy": 1
+    },
+    // laugh
+    {
+        "error": 0,
+        "calm": 1,
+        "anger": 9,
+        "joy": 39,
+        "sorrow": 0,
+        "energy": 48
     }
 ]
