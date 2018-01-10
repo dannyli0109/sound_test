@@ -1,0 +1,65 @@
+[
+    // cheer
+    {
+        "error": 0,
+        "calm": 8,
+        "anger": 0,
+        "joy": 34,
+        "sorrow": 6,
+        "energy": 28
+    },
+    // cheer2
+    {
+        "error": 0,
+        "calm": 0,
+        "anger": 15,
+        "joy": 34,
+        "sorrow": 0,
+        "energy": 49
+    },
+    // boo
+    {
+        "error": 0,
+        "calm": 6,
+        "anger": 13,
+        "joy": 29,
+        "sorrow": 0,
+        "energy": 42
+    },
+    // boo2
+    {
+        "error": 0,
+        "calm": 16,
+        "anger": 0,
+        "joy": 22,
+        "sorrow": 10,
+        "energy": 12
+    },
+    // applause
+    {
+        "error": 0,
+        "calm": 28,
+        "anger": 0,
+        "joy": 0,
+        "sorrow": 21,
+        "energy": 0
+    },
+    // aww
+    {
+        "error": 0,
+        "calm": 48,
+        "anger": 0,
+        "joy": 1,
+        "sorrow": 0,
+        "energy": 1
+    },
+    // 1 cheer
+    {
+        "error": 0,
+        "calm": 0,
+        "anger": 0,
+        "joy": 25,
+        "sorrow": 24,
+        "energy": 1
+    }
+]
