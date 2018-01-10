@@ -6,7 +6,49 @@
         "anger": 0,
         "joy": 34,
         "sorrow": 6,
-        "energy": 28
+        "energy": 28,
+        "sub array": [
+            {
+                "error": 0,
+                "calm": 0,
+                "anger": 23,
+                "joy": 26,
+                "sorrow": 0,
+                "energy": 49
+            },
+            {
+                "error": 0,
+                "calm": 0,
+                "anger": 2,
+                "joy": 47,
+                "sorrow": 0,
+                "energy": 49
+            },
+            {
+                "error": 0,
+                "calm": 0,
+                "anger": 20,
+                "joy": 29,
+                "sorrow": 0,
+                "energy": 49
+            },
+            {
+                "error": 0,
+                "calm": 8,
+                "anger": 0,
+                "joy": 41,
+                "sorrow": 0,
+                "energy": 41
+            },
+            {
+                "error": 0,
+                "calm": 14,
+                "anger": 0,
+                "joy": 14,
+                "sorrow": 20,
+                "energy": 0
+            }
+        ]
     },
     // cheer2
     {
@@ -24,7 +66,33 @@
         "anger": 13,
         "joy": 29,
         "sorrow": 0,
-        "energy": 42
+        "energy": 42,
+        "sub array": [
+            {
+                "error": 0,
+                "calm": 2,
+                "anger": 41,
+                "joy": 5,
+                "sorrow": 0,
+                "energy": 46
+            },
+            {
+                "error": 0,
+                "calm": 0,
+                "anger": 38,
+                "joy": 2,
+                "sorrow": 8,
+                "energy": 32
+            },
+            {
+                "error": 0,
+                "calm": 20,
+                "anger": 26,
+                "joy": 0,
+                "sorrow": 2,
+                "energy": 24
+            }
+        ]
     },
     // boo2
     {
@@ -33,7 +101,49 @@
         "anger": 0,
         "joy": 22,
         "sorrow": 10,
-        "energy": 12
+        "energy": 12,
+        "sub array": [
+            {
+                "error": 0,
+                "calm": 0,
+                "anger": 11,
+                "joy": 38,
+                "sorrow": 0,
+                "energy": 49
+            },
+            {
+                "error": 0,
+                "calm": 0,
+                "anger": 17,
+                "joy": 0,
+                "sorrow": 32,
+                "energy": 0
+            },
+            {
+                "error": 0,
+                "calm": 32,
+                "anger": 0,
+                "joy": 17,
+                "sorrow": 0,
+                "energy": 17
+            },
+            {
+                "error": 0,
+                "calm": 14,
+                "anger": 35,
+                "joy": 0,
+                "sorrow": 0,
+                "energy": 35
+            },
+            {
+                "error": 0,
+                "calm": 0,
+                "anger": 0,
+                "joy": 0,
+                "sorrow": 50,
+                "energy": 0
+            }
+        ]
     },
     // applause
     {
